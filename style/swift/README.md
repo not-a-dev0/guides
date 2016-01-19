@@ -5,6 +5,8 @@ Swift
 
 * Keep up with the Objective-C style guide above. Will highlight differences
   here.
+* Prefer `struct`s over `class`es wherever possible
+* If you need to use a `class`, default to marking it as `final`
 * Use `let` whenever possible to make immutable variables
 * Name all parameters in functions and enum cases
 * Use trailing closures
