@@ -85,3 +85,6 @@ struct DopeObject {
     return DopeObject(json: json)
   }
 }
+
+// Use () for void arguments and Void for void return types
+let f: () -> Void = { }
