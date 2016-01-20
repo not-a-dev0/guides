@@ -5,6 +5,7 @@ Swift
 
 * Keep up with the Objective-C style guide above. Will highlight differences
   here.
+* Limit lines to 100 characters
 * Use `let` whenever possible to make immutable variables
 * Name all parameters in functions and enum cases
 * Use trailing closures
