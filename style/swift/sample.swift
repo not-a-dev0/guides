@@ -41,7 +41,6 @@ func someUnauditedAPI(thing: String!) {
     }
 }
 
-
 // MARK: Enums
 
 enum Response {
