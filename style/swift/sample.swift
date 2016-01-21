@@ -41,8 +41,6 @@ func someUnauditedAPI(thing: String!) {
     }
 }
 
-// You can also use the `?` postfix operator to chain possible execution
-delegate?.doSomething()
 
 // MARK: Enums
 
