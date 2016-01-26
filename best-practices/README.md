@@ -322,6 +322,7 @@ Ember
 * Prefer dependency injection through `Ember.inject` over initializers, globals
   on window, or namespaces. ([sample][inject])
 * Prefer sub-routes over maintaining state.
+* Prefer explicit setting of boolean properties over `toggleProperty`.
 
 Testing
 
